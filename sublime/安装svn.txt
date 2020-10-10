@@ -1,0 +1,15 @@
+安装svn
+1.安装服务端和客户端(可汉化)
+2.创建服务端库
+3.修改库中的.conf 该#anon-access=read为anon-access=none  去掉password-db=passwd前的#
+4.在password文件中设置密码  用户名=密码（root=12323324)
+5.在启动服务项中安装svn服务
+        sc create svnserve binpath="c:\Program Files\Subversion\bin\svnserve.exe --server -root d:/myweb"（d:/myweb为创建的服务端的库）
+
+删除   sc delete svnserve
+
+6.创建客户端库(检出：svn://ip地址(服务端ip))
+
+---------------------------------------------------------------
+删除登陆认证
+c:\Documents and Settings\Administrator\Application Data\Subversion里的所有文件

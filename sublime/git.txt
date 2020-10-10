@@ -1,0 +1,25 @@
+1.git init --初始化仓库
+2.git add  filename --添加文件
+3.git commit -m "注释"  --提交本地仓库
+4.git remote add origin master --添加远程仓库
+5.git pull origin master --拉取远程仓库
+6.git push origin master -- 提交远程仓库
+
+git rm xxx --删除某个文件
+git rm -r xxx --删除某个文件夹
+git commit -am "##" --提交更改的整个仓库
+git add --all --添加所有
+git add -A  --添加改动的
+cd filename --进入下一级目录
+cd空格..  --返回上一级目录
+
+git提交单个文件夹，cd进入当前文件夹，git add file
+
+git checkout filename --恢复删除的本地文件(没有进行commit操作)
+
+git log -数字(1,2,3...)   --查看日志数
+git reset --hard空格(7位)   (版本回退)（进行commit操作）
+
+ 错误"failed to push some refs to"的解决办法
+git pull --rebase
+git config –global push.default current 

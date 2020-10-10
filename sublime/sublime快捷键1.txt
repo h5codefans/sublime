@@ -1,0 +1,32 @@
+Vim 命令模式
+h：左,j：下,k：上，l:右
+i:前插入，a：后插入，o:换行插入(大写字母I,A,O与小写字母反向)
+G：最后一行
+1G：第一行，nG第n行
+yy:复制当前行,
+3yy:复制3行
+p:粘贴到下一行
+P:粘贴到上一行
+3p:粘贴几次
+dd:删除一行，剪切一行
+u:撤销
+ctrl+y:回撤
+x:删除一个字符
+3x:删除3个字符
+r:替换一个字符
+dG:重当前行删除到模糊
+d2G:重当前行删到第二行
+dw:删除一个单词
+d$:重当前位置删到行尾
+d^:重当前位置删除到行首
+/hello:查找hello,按n键查找多个hello
+v:+tag缩进当前行
+v:+j或k选中多行，+tag缩进
+
+
+sublime快捷键:
+ctrl+/：注释
+"highlight_line":true   背景线
+"line_numbers":false     行号
+"auto_match_enabled":false  自动补全
+"vintage_start_in_command_mode":true,
