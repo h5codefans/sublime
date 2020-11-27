@@ -1,19 +1,25 @@
 --args --disable-web-security --allow-file-access-from-files --user-data-dir
 vue2:https://doc.vue-js.com/v2/guide/components-edge-cases.html
 springmvc:https://www.iteye.com/blog/jinnianshilongnian-1594806
-��ķ����:https://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html
+汤姆大叔:https://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html
 bind,apply,call:https://www.cnblogs.com/cosiray/p/4512969.html
-js�ص�����https://blog.csdn.net/baidu_32262373/article/details/54969696
-�ƶ��ˣ�https://www.cnblogs.com/PeunZhang/p/3407453.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
+js回调函数https://blog.csdn.net/baidu_32262373/article/details/54969696
+移动端：https://www.cnblogs.com/PeunZhang/p/3407453.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
 cordova:https://www.cnblogs.com/hubcarl/p/4202784.html
 https://www.iteye.com/blogs/subjects/cordova
 https://www.iteye.com/blog/rensanning-2047322
 https://www.iteye.com/blog/rensanning-2054646
 https://www.iteye.com/blog/rensanning-2024988
 UI:https://www.cnblogs.com/softidea/p/5789407.html
-android��������:https://www.oschina.net/question/54100_27841
+android生命周期:https://www.oschina.net/question/54100_27841
 google:http://yesky.51speed.top/2020/07/30/gugeliulanqi_v84.0.4147.105.rar
-
-
-
-
+资源:https://my.oschina.net/u/2275217/blog/662734
+http://www.jianshu.com/p/48280ba9a362(webpack-sass-vue环境搭建入门)
+http://blog.csdn.net/hongchh/article/details/55113751#t13（webpack-cli 项目配置文件分析）
+http://cnodejs.org/topic/571f4e785a26c4a841ecbd7c（webpack-es6-less环境搭建）
+https://laod.cn/hosts/2017-google-hosts.html(老D..博客)
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects（MDN社区）
+https://github.com/PaicHyperionDev/MobileDevWeekly/blob/master/%E5%B9%B3%E5%AE%89%E7%A7%91%E6%8A%80%E7%A7%BB%E5%8A%A8%E5%BC%80%E5%8F%91%E4%BA%8C%E9%98%9F%E6%8A%80%E6%9C%AF%E5%91%A8%E6%8A%A5%EF%BC%88%E7%89%B9%E5%88%AB%E7%89%88%E3%81%AEReact%20Native%E4%B8%93%E9%A2%98%EF%BC%89.md（移动开发周刊）
+http://my.oschina.net/bianweiall/blog/369655（Android cordova）
+https://cordova.apache.org/docs/en/latest/（apache cordova）
+http://blog.csdn.net/lisky119/article/details/25884197（jquery datatable）
